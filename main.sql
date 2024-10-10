@@ -1,0 +1,3 @@
+SELECT *
+FROM cost_table
+LIMIT 100
